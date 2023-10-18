@@ -41,4 +41,4 @@ Let's further edit table header.
 
 Congratulations, you just created your first chart!
 
-[`fruit sales`]: misc/fruit%20sales.png
+[`fruit sales`]: ../misc/fruit%20sales.png
