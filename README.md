@@ -1,2 +1,2 @@
 # user-guide
-Chartmeter User Guide
+[Chartmeter User Guide](https://chartmeter.github.io/user-guide)
