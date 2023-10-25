@@ -1,0 +1,2 @@
+# Copyright Policy
+Chartmeter respects the intellectual property rights of others and we expect user on Chartmeter to do the same. If you infringe copyrights of others, Your content may be removed or suspended in whole or part. It is our policy, in appropriate circumstances and our discretion, to disable and/or terminate accounts of users who repeatedly infringe or are charged repeatedly with infringing the copyrights or other intellectual property rights of others.
