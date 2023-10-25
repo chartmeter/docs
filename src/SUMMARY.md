@@ -4,8 +4,8 @@
 
 # User Guide
 
-- [Quickstart Guide](quickstart/README.md)
-    - [Initialize](quickstart/initialize.md)
-    - [Load data](quickstart/load.md)
-    - [Analyze data](quickstart/analyze.md)
-    - [Present data](quickstart/present.md)
+- [Quickstart Guide](user-guide/quickstart/README.md)
+    - [Initialize](user-guide/quickstart/initialize.md)
+    - [Load data](user-guide/quickstart/load.md)
+    - [Analyze data](user-guide/quickstart/analyze.md)
+    - [Present data](user-guide/quickstart/present.md)

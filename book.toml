@@ -3,7 +3,4 @@ authors = ["Li Yu"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Chartmeter User Guide"
-
-[output.html]
-site-url = "/user-guide/"
+title = "Chartmeter Docs"
