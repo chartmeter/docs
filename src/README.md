@@ -8,4 +8,9 @@ It is deal for lightweight data analytics and presentation.
 * Visualize data
 * Compose slides with embedded visualization
 
+### Demo
+Port a column chart image
+
+![screencast](misc/introduction.gif)
+
 [`Chartmeter`]: https://www.chart2char.com
